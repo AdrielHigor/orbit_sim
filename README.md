@@ -137,8 +137,7 @@ Where:
 Forces are calculated between all pairs of objects and integrated using Euler's method for position and velocity updates.
 
 ## License
-
 This project is for educational purposes and personal skill development.
----
 
+---
 *This README was generated with assistance from AI*
