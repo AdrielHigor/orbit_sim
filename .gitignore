@@ -1,0 +1,119 @@
+# Build directories
+build/
+bin/
+lib/
+debug/
+release/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+OrbitSimulator
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Qt-es
+object_script.*.rc
+object_script.*.res
+
+# QtCreator
+*.autosave
+
+# QtCreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+
+# QtCreator CMake
+CMakeLists.txt.user*
+
+# QtCreator 4.8< compilation database 
+compile_commands.json
+
+# QtCreator local machine specific files for imported projects
+*creator.user*
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.backup
+*.tmp
+
+# Log files
+*.log
+
+# Package files
+*.tar.gz
+*.zip
+*.7z
+
+# Local configuration files
+config.local.*
+.env
+.env.local
+
+# Coverage files
+*.gcda
+*.gcno
+*.gcov
+
+# Profiling data
+*.prof
+gmon.out
+
+# Temporary files
+temp/
+tmp/
