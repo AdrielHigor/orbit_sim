@@ -1,4 +1,4 @@
-# Orbit Simulator
+<img width="1285" height="749" alt="image" src="https://github.com/user-attachments/assets/c27724a8-c779-4b4e-bd10-3ebe9ebbd073" /># Orbit Simulator
 
 A real-time orbital mechanics simulation built with C++ and SFML. This project demonstrates gravitational physics, n-body interactions, and orbital dynamics through an interactive graphical interface.
 
@@ -12,6 +12,12 @@ This orbit simulator was developed as a C++ learning project to explore:
 - Game development fundamentals
 
 The simulator features gravitational force calculations between celestial bodies, orbital trail visualization, and an interactive interface for creating and modifying objects in real-time.
+
+## Me playing around with it
+
+<img width="1285" height="749" alt="image" src="https://github.com/user-attachments/assets/8e264021-1492-436d-ada0-b0107a1a3604" />
+<img width="1287" height="748" alt="image" src="https://github.com/user-attachments/assets/c3b8919e-43b8-44e3-89ed-4b4faa596c6e" />
+
 
 ## Features
 
